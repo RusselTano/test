@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: montserrat;
+  font-weight: bold;
+  color: aqua;
+}
+
+p {
+  font-size: 14px;
+}
